@@ -90,7 +90,7 @@ body {
   font-weight: 500;
 }
 
-.btn {
+.btn{
   display: inline-block;
   background-color: var(--color-primary);
   font-size: 1.6rem;
